@@ -1,4 +1,4 @@
-## Hola los pes
-##lenguaje favorito
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+# Hola los pes 
 
+### Lenguaje favorito
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45" />
